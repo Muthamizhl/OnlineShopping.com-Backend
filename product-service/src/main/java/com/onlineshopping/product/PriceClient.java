@@ -9,7 +9,7 @@ import org.springframework.retry.annotation.Retryable;
 @Component
 public class PriceClient {
     private final RestTemplate restTemplate;
-    @Value("${price.service.url:http://localhost:8082/api/prices}")
+    @Value("${price.service.url:http://localhost:8083/api/prices}")
     private String priceServiceUrl;
 
     public PriceClient(RestTemplate restTemplate) {
