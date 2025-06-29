@@ -1,0 +1,4 @@
+# Ignore Maven target directories
+**/target/
+# Ignore all JAR files
+*.jar
