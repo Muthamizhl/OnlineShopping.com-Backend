@@ -1,0 +1,8 @@
+com\onlineshopping\price\Price.class
+com\onlineshopping\price\ApiError.class
+com\onlineshopping\price\ApiResponse.class
+com\onlineshopping\price\SwaggerConfig.class
+com\onlineshopping\price\PriceServiceEurekaConfig.class
+com\onlineshopping\price\PriceServiceApplication.class
+com\onlineshopping\price\PriceController.class
+com\onlineshopping\price\PriceRepository.class

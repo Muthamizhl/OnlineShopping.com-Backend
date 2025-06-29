@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  product-service:
+    build: ./product-service
+    ports:
+      - "8081:8081"
+    depends_on:
+      - db
+    environment:
+      - SPRING_PROFILES_ACTIVE=default
+  db:
+    image: "oscarfonts/h2"
+    ports:
+      - "1521:1521"
+      - "81:81"
+    environment:
+      H2_OPTIONS: "-ifNotExists"

@@ -1,0 +1,1 @@
+The 'com' folder and all its subfolders under this directory are not needed and should be deleted. All Java source files for com.onlineshopping.product must be directly in this directory.

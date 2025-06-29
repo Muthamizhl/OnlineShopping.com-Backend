@@ -1,0 +1,8 @@
+com\onlineshopping\inventory\SwaggerConfig.class
+com\onlineshopping\inventory\InventoryServiceEurekaConfig.class
+com\onlineshopping\inventory\InventoryRepository.class
+com\onlineshopping\inventory\InventoryServiceApplication.class
+com\onlineshopping\inventory\ApiResponse.class
+com\onlineshopping\inventory\ApiError.class
+com\onlineshopping\inventory\Inventory.class
+com\onlineshopping\inventory\InventoryController.class

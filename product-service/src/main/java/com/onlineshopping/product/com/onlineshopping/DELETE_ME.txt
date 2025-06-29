@@ -1,0 +1,1 @@
+This folder is empty and should be deleted. All source files must be in d:/back/product-service/src/main/java/com/onlineshopping/product/.
